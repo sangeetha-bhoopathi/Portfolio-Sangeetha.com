@@ -137,7 +137,7 @@ body{
 }
 /*****about section ****/
 .about{
-    background-color: #111;
+    background-color: #b1adad;
     max-width: 800px;
     padding: 2rem 3rem;
     border-radius: 10px;
@@ -164,7 +164,7 @@ body{
     margin:0.5rem 0;
 }
 .about p{
-    color:#555;
+    color:#ff0a0a;
     margin:1.5rem 0;
 }
 .about .work{
