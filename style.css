@@ -30,7 +30,7 @@ body{
     position: relative;
 }
 .profile-card{
-    background: #111;
+    background: #979494;
     width:400px;
     padding: 3rem;
     border-radius: 10px;
@@ -67,7 +67,7 @@ body{
     margin-top: 20px;
 }
 .profile-details .intro h4{
-    background: #1d1d1d;
+    background: #979494;
     font-weight: 400;
     border-radius: 4px;
     padding: 5px 10px;
@@ -112,7 +112,7 @@ body{
     width: 40px;
     line-height: 40px;
     border-radius: 5px;
-    background-color: #111;
+    background-color: #979494;
     text-align: center;
     color:#fff;
     transition: 0.5s;
